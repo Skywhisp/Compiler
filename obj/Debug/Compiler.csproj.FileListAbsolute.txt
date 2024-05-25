@@ -1,0 +1,182 @@
+C:\Users\kosto\source\repos\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\kosto\source\repos\Compiler\bin\Debug\Compiler.exe
+C:\Users\kosto\source\repos\Compiler\bin\Debug\Compiler.pdb
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.MainForm.resources
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.exe
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.pdb
+C:\Users\User\Desktop\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\User\Desktop\Compiler\bin\Debug\Compiler.exe
+C:\Users\User\Desktop\Compiler\bin\Debug\Compiler.pdb
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.AboutForm.resources
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.MainForm.resources
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.exe
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.pdb
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.AboutForm.resources
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.MainForm.ru.resources
+C:\Users\kosto\source\repos\Compiler\bin\Debug\ru\Compiler.resources.dll
+C:\Users\kosto\source\repos\Compiler\obj\Debug\ru\Compiler.resources.dll
+C:\Users\kosto\source\repos\Compiler\bin\Debug\en\Compiler.resources.dll
+C:\Users\kosto\source\repos\Compiler\obj\Debug\Compiler.MainForm.en.resources
+C:\Users\kosto\source\repos\Compiler\obj\Debug\en\Compiler.resources.dll
+C:\Users\User\Desktop\Compiler\bin\Debug\en\Compiler.resources.dll
+C:\Users\User\Desktop\Compiler\bin\Debug\ru\Compiler.resources.dll
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.MainForm.en.resources
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.MainForm.ru.resources
+C:\Users\User\Desktop\Compiler\obj\Debug\en\Compiler.resources.dll
+C:\Users\User\Desktop\Compiler\obj\Debug\ru\Compiler.resources.dll
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.inputTabControl.resources
+C:\Users\User\Desktop\Compiler\obj\Debug\Compiler.OutputTabControl.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\bin\Debug\Compiler.exe.config
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\bin\Debug\Compiler.exe
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\bin\Debug\Compiler.pdb
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\bin\Debug\en\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\bin\Debug\ru\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.csproj.AssemblyReference.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.inputTabControl.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.MainForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.OutputTabControl.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.Properties.Resources.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.MainForm.en.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.MainForm.ru.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.csproj.GenerateResource.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\en\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\ru\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.exe
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.pdb
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.HelpForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.InfoForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-main\obj\Debug\Compiler.SaveForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\bin\Debug\Compiler.exe.config
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\bin\Debug\Compiler.exe
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\bin\Debug\Compiler.pdb
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\bin\Debug\en\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\bin\Debug\ru\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.csproj.AssemblyReference.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.HelpForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.InfoForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.MainForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.OutputTabControl.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.Properties.Resources.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.SaveForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.MainForm.en.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.MainForm.ru.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.csproj.GenerateResource.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\en\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\ru\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.exe
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.pdb
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\CourseWork_Compiler-main\obj\Debug\Compiler.FormText.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\bin\Debug\Compiler.exe.config
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\bin\Debug\Compiler.exe
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\bin\Debug\Compiler.pdb
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\bin\Debug\en\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\bin\Debug\ru\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.csproj.AssemblyReference.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.FormText.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.HelpForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.InfoForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.MainForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.OutputTabControl.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.Properties.Resources.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.SaveForm.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.MainForm.en.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.MainForm.ru.resources
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.csproj.GenerateResource.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\en\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\ru\Compiler.resources.dll
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.exe
+D:\РАБОТЫ В УНИВЕРЕ\6 семестр\тфияк\Compiler-CourseWork\obj\Debug\Compiler.pdb
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.exe
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.pdb
+C:\Users\Vadim\Desktop\Compiler-CourseWork\bin\Debug\Compiler.exe.config
+C:\Users\Vadim\Desktop\Compiler-CourseWork\bin\Debug\Compiler.exe
+C:\Users\Vadim\Desktop\Compiler-CourseWork\bin\Debug\Compiler.pdb
+C:\Users\Vadim\Desktop\Compiler-CourseWork\bin\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Desktop\Compiler-CourseWork\bin\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.FormText.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.HelpForm.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.InfoForm.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.MainForm.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.SaveForm.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.MainForm.en.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.MainForm.ru.resources
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Desktop\Compiler-CourseWork\obj\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\bin\Debug\Compiler.exe.config
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\bin\Debug\Compiler.exe
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\bin\Debug\Compiler.pdb
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\bin\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\bin\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.FormText.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.HelpForm.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.InfoForm.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.MainForm.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.OutputTabControl.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.SaveForm.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.MainForm.en.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.MainForm.ru.resources
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.exe
+C:\Users\Vadim\Music\Версия 0.5 (починил const) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.pdb
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\bin\Debug\Compiler.exe.config
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\bin\Debug\Compiler.exe
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\bin\Debug\Compiler.pdb
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\bin\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\bin\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.FormText.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.HelpForm.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.InfoForm.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.MainForm.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.OutputTabControl.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.SaveForm.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.MainForm.en.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.MainForm.ru.resources
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.exe
+C:\Users\Vadim\Music\Версия 0.6 (добавил html) (предпочтительнее)\Compiler-CourseWork\obj\Debug\Compiler.pdb
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.exe
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.pdb
+C:\Users\Vadim\Desktop\laba 6\bin\Debug\Compiler.exe.config
+C:\Users\Vadim\Desktop\laba 6\bin\Debug\Compiler.exe
+C:\Users\Vadim\Desktop\laba 6\bin\Debug\Compiler.pdb
+C:\Users\Vadim\Desktop\laba 6\bin\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Desktop\laba 6\bin\Debug\ru\Compiler.resources.dll
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.FormText.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.HelpForm.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.InfoForm.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.MainForm.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.Properties.Resources.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.SaveForm.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.MainForm.en.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.MainForm.ru.resources
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.csproj.GenerateResource.cache
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\en\Compiler.resources.dll
+C:\Users\Vadim\Desktop\laba 6\obj\Debug\ru\Compiler.resources.dll
