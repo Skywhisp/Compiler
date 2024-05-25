@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title>Грамматика</title>
+</head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 20px;">
+    <h1>
+        Грамматика
+    </h1>
+    <p>
+        Определим грамматику для объявления целочисленной константы с инициализацией на языке Kotlin G[‹Def›] в нотации Хомского с продукциями P:
+    </p>
+    <p>
+        <p>1. &lt;DEF&gt; -> 'const' &lt;CONST&gt;<br /></p>
+        <p>2. &lt;CONST&gt; -> 'val' &lt;VAL&gt;<br /></p>
+        <p>3. &lt;VAL&gt; -> &lt;IDENT&gt;<br /></p>
+        <p>4. &lt;IDENT&gt; -> LETTER (DIGIT | LETTER | '_')* &lt;COLON&gt;<br /></p>
+        <p>5. &lt;COLON&gt; -> ':' &lt;TYPE&gt;<br /></p>
+        <p>6. &lt;TYPE&gt; -> 'Int' &lt;EQUALS&gt;<br /></p>
+        <p>7. &lt;EQUALS&gt; -> '=' &lt;NUMBER&gt;<br /></p>
+        <p>8. &lt;NUMBER&gt; -> DIGIT+ &lt;SEMICOLON&gt;<br /></p>
+        <p>9. &lt;SEMICOLON&gt; -> ';' &lt;END&gt;<br /></p>
+        <br />
+
+        - letter → “a” | “b” | “c” | ... | “z” | “A” | “B” | “C” | ... | “Z”<br />
+        - digit → “0” | “1” | “2” | “3” | “4” | “5” | “6” | “7” | “8” | “9”<br />
+    </p>
+    <p>
+        Следуя введенному формальному определению грамматики, пред-ставим G[‹Def›] ее составляющими:<br />
+
+        - Z = ‹DEF›;<br />
+        - VT = {'const', 'val', ':', 'int', '=', ';', LETTER, DIGIT};<br />
+        - VN = {‹DEF›, ‹CONST›, ‹VAL›, ‹IDENT›, ‹COLON›, ‹TYPE›, ‹EQUALS›, ‹NUMBER›, ‹SEMICOLON›, ‹END›}.        
+    </p>
+</body>
+</html>
